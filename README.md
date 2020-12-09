@@ -5,7 +5,7 @@
 - :computer: My passion to is develop websites with unique, user friendly UI/UX design and to be able to problem solve. I love collaborating on team projects
 - :gem: My aspirations are to become a full-stack developer. 
 - :memo: Currently learning Backend with Python Django, and refining previous skills for Database Management with MySQL
-- :white_check_mark: My Top languages are ReactJS, JavaScript, HTML5 and CSS3 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+- :white_check_mark: My Top languages are <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>, <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>, <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> and <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
 
 - :part_alternation_mark: I've worked with UI libraries such as Material-UI, Bootstrap, and Semantic-UI
 - :mag_right: Open to internships and work opportunities
