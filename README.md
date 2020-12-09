@@ -5,7 +5,8 @@
 - :computer: My passion to is develop websites with unique, user friendly UI/UX design and to be able to problem solve. I love collaborating on team projects
 - :gem: My aspirations are to become a full-stack developer. 
 - :memo: Currently learning Backend with Python Django, and refining previous skills for Database Management with MySQL
-- :white_check_mark: My Top languages are ReactJS, JavaScript, HTML5 and CSS3
+- :white_check_mark: My Top languages are ReactJS, JavaScript, HTML5 and CSS3 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
 - :part_alternation_mark: I've worked with UI libraries such as Material-UI, Bootstrap, and Semantic-UI
 - :mag_right: Open to internships and work opportunities
 - :speech_balloon: Contact me on LinkedIn: https://www.linkedin.com/in/jerel-lopez-0361b819a/ 
