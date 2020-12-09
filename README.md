@@ -10,6 +10,8 @@
 - :mag_right: Open to internships and work opportunities
 - :speech_balloon: Contact me on LinkedIn: https://www.linkedin.com/in/jerel-lopez-0361b819a/ 
 
+- As of Dec.9.2020, I'm currently working alongside a group of 8 developers to create a Student/Company Consulting Clinic for the University of Houston. The TechStack being used is ReactJS, Python Django, and AWS. My task is Frontend Development for the web app. 
+
 ### Thank you are have a blessed day! :sunrise_over_mountains:
 
 ![Jerel Lopez's Github Stats!](https://github-readme-stats.vercel.app/api?username=JLopezz3&theme=algolia&show_icons=true&count_private=true)
