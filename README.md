@@ -5,7 +5,6 @@
 - :computer: My passion to is develop websites with unique, user friendly UI/UX design and to be able to problem solve. I love collaborating on team projects
 - :gem: My aspirations are to become a full-stack developer. 
 - :memo: Currently learning Backend with Python Django, and refining previous skills for Database Management with MySQL 
-- :part_alternation_mark: I've worked with UI libraries such as Material-UI, Bootstrap, and Semantic-UI
 - :mag_right: Open to internships and work opportunities
 - :speech_balloon: Contact me on LinkedIn: https://www.linkedin.com/in/jerel-lopez-0361b819a/ 
 
