@@ -11,7 +11,7 @@
 
 - As of Dec.9.2020, I'm currently working alongside a group of 8 developers to create a Student/Company Consulting Clinic for the University of Houston. The TechStack being used is ReactJS, Python Django, and AWS. My task is Frontend Development for the web app. 
 
-:white_check_mark: My Top languages are 
+:white_check_mark: My Top languages & frameworks are 
 - <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 
 ### Thank you are have a blessed day! :sunrise_over_mountains:
