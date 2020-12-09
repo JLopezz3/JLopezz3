@@ -7,7 +7,10 @@
 - :memo: Currently learning Backend with Python Django, and refining previous skills for Database Management with MySQL
 - :white_check_mark: My Top languages are ReactJS, JavaScript, HTML5 and CSS3
 - :part_alternation_mark: I've worked with UI libraries such as Material-UI, Bootstrap, and Semantic-UI
+- :mag_right: Open to internships and work opportunities
 - :speech_balloon: Contact me on LinkedIn: https://www.linkedin.com/in/jerel-lopez-0361b819a/ 
+
+### Thank you are have a blessed day! :sunrise_over_mountains:
 
 ![Jerel Lopez's Github Stats!](https://github-readme-stats.vercel.app/api?username=JLopezz3&theme=algolia&show_icons=true&count_private=true)
 
