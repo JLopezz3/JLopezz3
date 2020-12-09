@@ -1,7 +1,7 @@
 ### Hello all 👋
 
 - :mortar_board: Hello, this is Jerel Lopez and I am a Computer Science student at the University of Houston.
-- :eyeglasses: I am a hard-working Front-End developer, with creative visual thinking.
+- :eyeglasses: I am a hard-working Front-End developer, with creative visual concepts.
 - :computer: My passion to is develop websites with unique UI/UX design and to be able to problem solve. 
 - :gem: My aspirations are to become a full-stack developer. 
 
