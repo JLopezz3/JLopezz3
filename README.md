@@ -2,7 +2,7 @@
 
 - :mortar_board: Hello, this is Jerel Lopez and I am a Computer Science student at the University of Houston.
 - :eyeglasses: I am a hard-working Front-End developer, with creative visual concepts.
-- :computer: My passion to is develop websites with unique UI/UX design and to be able to problem solve. I love collaborating on team projects
+- :computer: My passion to is develop websites with unique, user friendly UI/UX design and to be able to problem solve. I love collaborating on team projects
 - :gem: My aspirations are to become a full-stack developer. 
 - :memo: Currently learning Backend with Python Django, and refining previous skills for Database Management with MySQL
 - :white_check_mark: My Top languages are ReactJS, JavaScript, HTML5 and CSS3
