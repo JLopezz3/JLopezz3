@@ -6,7 +6,7 @@
 - :gem: My aspirations are to become a full-stack developer. 
 - :memo: Currently learning Backend with Python Django, and refining previous skills for Database Management with MySQL 
 - :mag_right: Open to internships and work opportunities
-- :speech_balloon: Contact me on LinkedIn: https://www.linkedin.com/in/jerel-lopez-0361b819a/ 
+- :speech_balloon: Contact me on LinkedIn: https://www.linkedin.com/in/jerellopez/ 
 
 - ***As of Dec.9.2020***, I'm currently working alongside a group of 8 developers to create a Student/Company Consulting Clinic for the University of Houston. The TechStack being used is ReactJS, Python Django, and AWS. My task is Frontend Development for the web app. 
 
