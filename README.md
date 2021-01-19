@@ -6,7 +6,8 @@
 - :gem: My aspirations are to become a full-stack developer. 
 - :memo: Currently learning Backend with Python Django, and refining previous skills for Database Management with MySQL 
 - :mag_right: Open to internships and work opportunities
-- :speech_balloon: Contact me on LinkedIn: https://www.linkedin.com/in/jerellopez/ 
+- :speech_balloon: Contact me on LinkedIn: https://www.linkedin.com/in/jerellopez/
+- :fire: Visit my website: https://peaceful-aryabhata-b95db6.netlify.app/
 
 - ***As of Sep. 12 2020***, I'm currently working alongside a group of 8 developers to create a Student/Company Consulting Clinic for the University of Houston. The TechStack being used is ReactJS, Python Django, and AWS. My task is Frontend Development for the web app.
 - ***UPDATE Jan. 15 2021*** Currently in the final stages towards deployment and website is 95% done. I am responsible for leading the Frontend Team members in UI/UX mockups and design. I setup the API calls for the site using axios and React Hook such as useState and useEffect. Unit testing is being done and minor styling issues are being corrected. Deployed Website for the Student/Company Consulting Clinic can be seen at: http://scmatch.cs.uh.edu/
