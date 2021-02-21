@@ -25,5 +25,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubhsheth&repo=SD-Project&theme=algolia)](https://github.com/shubhsheth/SD-Project)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JLopezz31&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JLopezz3&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
