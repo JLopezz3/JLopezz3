@@ -26,4 +26,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubhsheth&repo=SD-Project&theme=algolia)](https://github.com/shubhsheth/SD-Project)
 
+https://activity-graph.herokuapp.com/graph?username=JLopezz3&theme=react-dark
+
 
