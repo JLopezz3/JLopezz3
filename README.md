@@ -19,11 +19,12 @@
 
 ![Jerel Lopez's Github Stats!](https://github-readme-stats.vercel.app/api?username=JLopezz3&theme=algolia&show_icons=true&count_private=true)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JLopezz3&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 [![Jerel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLopezz3&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JLopezz3&repo=Covid19TrackerApp&theme=algolia)](https://github.com/JLopezz3/Covid19TrackerApp)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shubhsheth&repo=SD-Project&theme=algolia)](https://github.com/shubhsheth/SD-Project)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JLopezz3&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
